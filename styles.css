@@ -22,4 +22,28 @@ hr
 img
 {
   height: 50 px;
+background-color : PaleVioletRed;
 }
+
+/*****************CLASS SELECTORS**************/
+.upsc
+{
+  background-color: black;
+}
+
+.engineer
+{
+  background-color:grey;
+}
+
+.circular
+{
+  border-radius: 100%;
+}
+/*****************ID SELECTORS**************/
+/
+#heading
+{
+  color: PaleVioletRed;
+}
+
