@@ -19,7 +19,7 @@ hr
   height: 0 px;
   width: 5% ;
 }
-img : hover
+img : hover    /* used to highlight the image when the cursor goes on that image */
 {
   height: 50 px;
 background-color : gold;
